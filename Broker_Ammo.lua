@@ -4,7 +4,7 @@ local CTimerAfter = C_Timer.After
 local GetInventoryItemCount = GetInventoryItemCount
 local GetInventoryItemTexture = GetInventoryItemTexture
 
-local ammoSlotId = GetInventorySlotInfo(AMMOSLOT);
+local ammoSlotId = GetInventorySlotInfo("AMMOSLOT")
 
 local function CheckAmmo()
 	local texture = GetInventoryItemTexture("player", ammoSlotId)

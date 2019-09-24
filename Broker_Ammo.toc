@@ -1,0 +1,11 @@
+## Interface: 11302
+## Title: Broker_Ammo
+## Notes: Displays your current amount of range ammunition.
+## Author: RaphMad
+## Version: 1
+
+libs\LibStub.lua
+libs\CallbackHandler-1.0.lua
+libs\LibDataBroker-1.1.lua
+
+Broker_Ammo.lua

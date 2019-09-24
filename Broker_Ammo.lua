@@ -1,4 +1,4 @@
-local dataObject = LibStub("LibDataBroker-1.1"):NewDataObject("Ammo", {type = "data source", text = ""})
+local dataObject = LibStub("LibDataBroker-1.1"):NewDataObject("Broker_Ammo", {type = "data source", text = ""})
 
 local CTimerAfter = C_Timer.After
 local GetInventoryItemCount = GetInventoryItemCount

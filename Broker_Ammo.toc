@@ -2,7 +2,7 @@
 ## Title: Broker_Ammo
 ## Notes: Displays your current amount of range ammunition.
 ## Author: RaphMad
-## Version: 1
+## Version: 3
 
 libs\LibStub.lua
 libs\CallbackHandler-1.0.lua

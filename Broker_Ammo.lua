@@ -1,6 +1,5 @@
 local frame = CreateFrame("Frame")
 
-local CTimerAfter = C_Timer.After
 local GetInventoryItemCount = GetInventoryItemCount
 local GetInventoryItemTexture = GetInventoryItemTexture
 

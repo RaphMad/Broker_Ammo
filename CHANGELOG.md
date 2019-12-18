@@ -1,5 +1,5 @@
 # v4
-- <TODO>
+- Bump supported interface version to 11303
 
 # v3
 - Load only for classes that use range ammo

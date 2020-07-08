@@ -1,4 +1,4 @@
-## Interface: 11303
+## Interface: 11305
 ## Title: Broker_Ammo
 ## Notes: Displays your current amount of range ammunition.
 ## Author: RaphMad

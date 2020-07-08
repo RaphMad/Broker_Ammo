@@ -1,5 +1,5 @@
 # v5
-- <TODO>
+- Bump supported interface version to 11305
 
 # v4
 - Bump supported interface version to 11303
